@@ -1,11 +1,11 @@
 // Task 1: Student Information
 
-let name = "Md Riazul Islam"; // Name: Md Riazul Islam
-let age = 35; // Age: 35
-let district = "Noakhali"; // District: Noakhali
-let isStudent = true; // Student: true
+let name = "Md Riazul Islam";
+let age = 35;
+let district = "Noakhali";
+let isStudent = true;
 
-console.log(`Name: ${name}`);
-console.log(`Age: ${age} `);
-console.log(`District: ${district}`);
-console.log(`Student: ${isStudent}`);
+console.log(`Name: ${name}`); // Name: Md Riazul Islam
+console.log(`Age: ${age} `); // Age: 35
+console.log(`District: ${district}`); // District: Noakhali
+console.log(`Student: ${isStudent}`); // Student: true
